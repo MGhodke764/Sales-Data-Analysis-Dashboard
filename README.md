@@ -1,2 +1,6 @@
 # Sales-Data-Analysis-Dashboard
-Interactive **Sales Analysis Dashboard** built using Microsoft Excel to analyze sales performance, profit, product categories, regions, and trends. Features dynamic slicers, Pivot Tables, and visualizations to deliver actionable business insights and support data-driven decision-making.
+
+## Project Overview
+This project presents an interactive Sales Analysis Dashboard developed using Microsoft Excel to analyze and visualize business sales performance. The dashboard provides insights into sales, profit, margin, quantity sold, regional performance, product performance, customer segments, shipping modes, and sales trends through interactive charts and slicers.
+The dashboard enables users to filter data by Region, Year, and Month, helping businesses make data-driven decisions and identify key performance indicators efficiently.
+
