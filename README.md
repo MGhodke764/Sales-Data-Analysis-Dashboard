@@ -6,8 +6,16 @@ The dashboard enables users to filter data by Region, Year, and Month, helping b
 
 ## Project Objectives
 -Analyze overall sales performance using Excel.
+
 -Identify top-performing products, cities, and regions.
+
 -Analyze profit and profit margin.
+
 -Track monthly and daily sales trends.
+
 -Understand category-wise and segment-wise sales distribution.
+
 -Create an interactive dashboard for quick business analysis.
+
+
+
